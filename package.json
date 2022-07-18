@@ -1,0 +1,12 @@
+{
+  "name": "ynab-email-sync",
+  "version": "1.0.0",
+  "description": "A basic Node.js console app to sync YNAB with the emails from my gmail. Feel free to fork.",
+  "main": "build/index.js",
+  "repository": "git@github.com:yagarasu/ynab-email-sync.git",
+  "author": "Alexys Hegmann <alexys.hegmann@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
